@@ -22,7 +22,7 @@
 ## Usage
 
 1. Run `GamingBoostGUI.ps1` for an interactive interface.
-2. Or run `GamingBoost.ps1` via PowerShell for scripted optimization.
+2. Or run `GamingBoost.exe` via PowerShell for scripted optimization.
 3. After gaming or streaming, restart your PC or manually restore services if needed.
 
 ## Notes
